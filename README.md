@@ -3,6 +3,10 @@ a simple  cnn implemented by  cpp, SUSTech CS205 project 5
 
 # CS205 C/C++ Programming - Lab5 Assignment
 
+**Name**: 宋明洋 (SONG Mingyang)
+
+**SID**: 11811414
+
 ## Part 1 - Analysis
 
 这次试验目标以实现一个简单的CNN人脸识别神经网络为背景，综合了图像卷积，矩阵计算，opencv库的安装与使用等方面的内容，是一个综合性非常强的项目。由于涉及到了多次卷积的计算和结果的传递，这对我c++的类与对象的应用，c++指针的运用以及内存的管理都提出了更高的要求和锻炼。
