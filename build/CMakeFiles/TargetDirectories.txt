@@ -1,0 +1,3 @@
+/Users/michael/OneDrive/codes/c&cpp/project/p5/build/CMakeFiles/p5.dir
+/Users/michael/OneDrive/codes/c&cpp/project/p5/build/CMakeFiles/edit_cache.dir
+/Users/michael/OneDrive/codes/c&cpp/project/p5/build/CMakeFiles/rebuild_cache.dir
